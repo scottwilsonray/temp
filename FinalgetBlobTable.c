@@ -7,6 +7,7 @@
 int main(int argc, char *argv[]) {
 
 //Start
+//hello
 
 	// Configuration Parameter 1:
 		char blobTableFilename[] = "example.txt";
